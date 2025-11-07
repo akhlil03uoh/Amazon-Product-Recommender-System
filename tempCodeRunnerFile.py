@@ -1,0 +1,2 @@
+
+from scripts.sentiment_model import train_sentiment_model
